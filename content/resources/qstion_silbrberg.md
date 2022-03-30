@@ -4,6 +4,7 @@ description: This resource contains notes on a question and answer session with 
   Silberberg about the waterfront.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-914-planning-communication-spring-2007/182fe17fa42e0b863e25d25190016983_qstion_silbrberg.pdf
 file_type: application/pdf
+parent_uid: 76915511-e39b-1946-ea5e-cc0dd2907035
 resourcetype: Document
 title: qstion_silbrberg.pdf
 uid: 182fe17f-a42e-0b86-3e25-d25190016983
